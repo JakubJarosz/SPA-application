@@ -10,7 +10,6 @@ A small React + Redux Toolkit exercise that fetches products from the [ReqRes AP
 
 ## Screenshots
 ![Products List](screenshots/main.PNG)
-![Filter Single Product](screenshots/main.PNG)
 
 ## How to Run
 1. Clone the repo:
